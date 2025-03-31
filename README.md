@@ -4,7 +4,7 @@
 This is an analysis of the effectiveness and sustainability of a community-led mosquito control program in University Park, Maryland. These analyses examine what knowledge, attitude, and practice (KAP) variables predicted whether or not residents deployed a mosquito trap, known as a gravid *aedes* trap (GAT). The analysis also examines how GAT deployment and environmental variables influence mosquito abundance. 
 
 ### Full Thesis 
-The complete thesis for which this analysis was conducted can be read in the [THESIS_SUBMITTED_FINAL PDF](./THESIS_SUBMITTED_FINAL.pdf). 
+The complete thesis for which this analysis was conducted can be read in the [THESIS_SUBMITTED_FINAL PDF](./Thesis_SUBMITTED_FINAL.pdf). 
 
 ### Run Directions 
 Install the following packages:
